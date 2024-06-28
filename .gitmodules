@@ -1,0 +1,9 @@
+[submodule "textbooks"]
+	path = textbooks
+	url = https://github.com/JothamWong/textbooks.git
+[submodule "nus-cheatsheets"]
+	path = nus-cheatsheets
+	url = https://github.com/JothamWong/nus-cheatsheets.git
+[submodule "Papers"]
+	path = Papers
+	url = https://github.com/JothamWong/Papers.git
