@@ -7,3 +7,6 @@
 [submodule "Papers"]
 	path = Papers
 	url = https://github.com/JothamWong/Papers.git
+[submodule "col733"]
+	path = col733
+	url = https://github.com/JothamWong/col733-cloud.git
